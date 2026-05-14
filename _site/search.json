@@ -4,34 +4,34 @@
     "href": "index.html",
     "title": "PROUVOST Dimitri",
     "section": "",
-    "text": "MSc Finance · HEC Lausanne · Asset & Risk Management\nBased near Geneva · Available for an internship from January 2027"
+    "text": "MSc Finance · HEC Lausanne · Asset & Risk Management\nBased near Geneva · Available for an internship from January 2027\n\n\nHello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027.\n\n\n\n\n\n\nRegime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)\nA 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.\nTech: Python (statsmodels, NumPy, Pandas) · MSc Finance, HEC Lausanne · 2026\n→ View project site · → Source code\n\n\n\n\n\nFor my detailed CV, please reach out by email, I share it directly with recruiters and contacts who are interested.\n\n✉ Request CV via email\n\n\n\n\n\n\nEmail — prouvostdimitri@gmail.com\nGitHub — @RioDimitri"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "PROUVOST Dimitri",
-    "section": "About",
-    "text": "About\nHello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027."
-  },
-  {
-    "objectID": "index.html#cv",
-    "href": "index.html#cv",
-    "title": "PROUVOST Dimitri",
-    "section": "CV",
-    "text": "CV\n\n↓ Download CV (PDF) ↗ Open in new tab"
+    "section": "",
+    "text": "Hello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027."
   },
   {
     "objectID": "index.html#research-projects",
     "href": "index.html#research-projects",
     "title": "PROUVOST Dimitri",
-    "section": "Research projects",
-    "text": "Research projects\n\nOil Shocks & Global Equity Markets\nRegime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)\nA 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.\nTech: Python (statsmodels, NumPy, Pandas) · MSc Finance, HEC Lausanne · 2026\n→ View project site · → Source code"
+    "section": "",
+    "text": "Regime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)\nA 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.\nTech: Python (statsmodels, NumPy, Pandas) · MSc Finance, HEC Lausanne · 2026\n→ View project site · → Source code"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "PROUVOST Dimitri",
+    "section": "",
+    "text": "For my detailed CV, please reach out by email, I share it directly with recruiters and contacts who are interested.\n\n✉ Request CV via email"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "PROUVOST Dimitri",
-    "section": "Contact",
-    "text": "Contact\n\nEmail — prouvostdimitri@gmail.com\nGitHub — @RioDimitri"
+    "section": "",
+    "text": "Email — prouvostdimitri@gmail.com\nGitHub — @RioDimitri"
   }
 ]

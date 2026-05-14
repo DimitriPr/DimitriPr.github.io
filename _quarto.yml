@@ -3,8 +3,6 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-  resources:
-    - "cv.pdf"
 
 website:
   title: "Dimitri Prouvost"

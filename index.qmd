@@ -8,24 +8,10 @@ pagetitle: "Prouvost Dimitri"
 **MSc Finance · HEC Lausanne · Asset & Risk Management**
 
 Based near Geneva · Available for an internship from January 2027
-:::
-
----
 
 ## About
 
 Hello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027.
-
----
-
-## CV
-
-<div class="cv-actions">
-<a href="cv.pdf" download class="btn-download">↓ Download CV (PDF)</a>
-<a href="cv.pdf" target="_blank" class="btn-open">↗ Open in new tab</a>
-</div>
-
-<iframe src="cv.pdf" width="100%" height="900px" class="cv-frame"></iframe>
 
 ---
 
@@ -46,6 +32,19 @@ A 9,400-observation empirical study investigating whether oil price shocks have 
 </div>
 
 ---
+
+
+
+## CV
+
+For my detailed CV, please reach out by email, I share it directly with recruiters and contacts who are interested.
+
+<div class="cv-actions">
+<a href="mailto:prouvostdimitri@gmail.com?subject=CV%20request%20-%20Dimitri%20Prouvost&body=Hi%20Dimitri%2C%0A%0AI%20would%20like%20to%20get%20a%20copy%20of%20your%20CV.%0A%0ABest%20regards%2C" class="btn-download">✉ Request CV via email</a>
+</div>
+
+---
+
 
 ## Contact
 
