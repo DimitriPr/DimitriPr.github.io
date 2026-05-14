@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PROUVOST Dimitri",
+    "section": "",
+    "text": "MSc Finance · HEC Lausanne · Asset & Risk Management\nBased near Geneva · Available for an internship from January 2027"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "PROUVOST Dimitri",
+    "section": "About",
+    "text": "About\nHello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "PROUVOST Dimitri",
+    "section": "CV",
+    "text": "CV\n\n↓ Download CV (PDF) ↗ Open in new tab"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "PROUVOST Dimitri",
+    "section": "Research projects",
+    "text": "Research projects\n\nOil Shocks & Global Equity Markets\nRegime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)\nA 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.\nTech: Python (statsmodels, NumPy, Pandas) · MSc Finance, HEC Lausanne · 2026\n→ View project site · → Source code"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "PROUVOST Dimitri",
+    "section": "Contact",
+    "text": "Contact\n\nEmail — prouvostdimitri@gmail.com\nGitHub — @RioDimitri"
+  }
+]

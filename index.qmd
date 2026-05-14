@@ -1,0 +1,53 @@
+---
+title: ""
+pagetitle: "Prouvost Dimitri"
+---
+
+::: {.hero}
+# PROUVOST Dimitri
+**MSc Finance · HEC Lausanne · Asset & Risk Management**
+
+Based near Geneva · Available for an internship from January 2027
+:::
+
+---
+
+## About
+
+Hello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027.
+
+---
+
+## CV
+
+<div class="cv-actions">
+<a href="cv.pdf" download class="btn-download">↓ Download CV (PDF)</a>
+<a href="cv.pdf" target="_blank" class="btn-open">↗ Open in new tab</a>
+</div>
+
+<iframe src="cv.pdf" width="100%" height="900px" class="cv-frame"></iframe>
+
+---
+
+## Research projects
+
+<div class="project-card">
+
+### Oil Shocks & Global Equity Markets
+
+*Regime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)*
+
+A 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.
+
+**Tech**: Python (statsmodels, NumPy, Pandas) · *MSc Finance, HEC Lausanne · 2026*
+
+[→ View project site](https://riodimitri.github.io/oil-shocks-equity-markets/) · [→ Source code](https://github.com/RioDimitri/oil-shocks-equity-markets)
+
+</div>
+
+---
+
+## Contact
+
+- **Email** — [prouvostdimitri@gmail.com](mailto:prouvostdimitri@gmail.com)
+- **GitHub** — [@RioDimitri](https://github.com/RioDimitri)

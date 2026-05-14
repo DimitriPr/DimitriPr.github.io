@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - "cv.pdf"
+
+website:
+  title: "Dimitri Prouvost"
+  description: "MSc Finance · HEC Lausanne · Quantitative research portfolio"
+  
+  navbar:
+    background: "#0d0d0d"
+    foreground: "#e0e0e0"
+    right:
+      - icon: github
+        href: https://github.com/RioDimitri
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:prouvostdimitri@gmail.com
+        aria-label: Email
+
+  page-footer:
+    background: "#0a0a0a"
+    border: false
+    left: "© 2026 Dimitri Prouvost"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+    page-layout: full
