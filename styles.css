@@ -94,8 +94,19 @@ h3 {
 }
 
 /* --- Content width --- */
-.content {
+.content,
+main.content,
+#quarto-content > .content,
+.page-columns > .content {
   max-width: 880px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Center the full-page layout grid so content sits in the middle */
+.page-columns.page-full,
+.quarto-container.page-columns.page-full {
+  justify-content: center;
 }
 
 /* --- Links --- */

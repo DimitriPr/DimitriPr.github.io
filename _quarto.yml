@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "Dimitri Prouvost"
+  title: "Personal Page"
   description: "MSc Finance · HEC Lausanne · Quantitative research portfolio"
   
   navbar:
@@ -22,7 +22,7 @@ website:
   page-footer:
     background: "#0a0a0a"
     border: false
-    left: "© 2026 Dimitri Prouvost"
+    left: "© 2026 PROUVOST Dimitri"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:

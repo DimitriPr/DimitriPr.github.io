@@ -23,7 +23,7 @@ Hello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Mana
 
 *Regime-dependent OLS, VAR, and IRF analysis on global equity returns (1990–2026)*
 
-A 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and out-of-sample forecasting against Welch & Goyal (2008) benchmark.
+A 9,400-observation empirical study investigating whether oil price shocks have stronger negative effects on equity returns during economic downturns, and whether developed and emerging markets respond differently. Implemented Newey-West HAC inference, three VAR systems with bootstrapped impulse responses, and forecasting against Welch & Goyal (2008) benchmark.
 
 **Tech**: Python (statsmodels, NumPy, Pandas) · *MSc Finance, HEC Lausanne · 2026*
 
