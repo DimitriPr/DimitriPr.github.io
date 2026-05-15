@@ -27,7 +27,7 @@ A 9,400-observation empirical study investigating whether oil price shocks have 
 
 **Tech**: Python (statsmodels, NumPy, Pandas) · *MSc Finance, HEC Lausanne · 2026*
 
-[→ View project site](https://dimitrip.github.io/oil-shocks-equity-markets/) · [→ Source code](https://github.com/DimitriP/oil-shocks-equity-markets)
+[→ View project site](https://dimitripr.github.io/oil-shocks-equity-markets/) · [→ Source code](https://github.com/DimitriPr/oil-shocks-equity-markets)
 
 </div>
 
@@ -49,4 +49,4 @@ For my detailed CV, please reach out by email, I share it directly with recruite
 ## Contact
 
 - **Email** — [prouvostdimitri@gmail.com](mailto:prouvostdimitri@gmail.com)
-- **GitHub** — [@DimitriP](https://github.com/DimitriP)
+- **GitHub** — [@DimitriPr](https://github.com/DimitriPr)

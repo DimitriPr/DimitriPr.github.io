@@ -13,7 +13,7 @@ website:
     foreground: "#e0e0e0"
     right:
       - icon: github
-        href: https://github.com/DimitriP
+        href: https://github.com/DimitriPr
         aria-label: GitHub
       - icon: envelope
         href: mailto:prouvostdimitri@gmail.com
