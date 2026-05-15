@@ -4,14 +4,14 @@ pagetitle: "Prouvost Dimitri"
 ---
 
 ::: {.hero}
-# PROUVOST Dimitri
 **MSc Finance · HEC Lausanne · Asset & Risk Management**
 
 Based near Geneva · Available for an internship from January 2027
+:::
 
 ## About
 
-Hello ! I am a MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. My work sits at the intersection of empirical finance and quantitative methods from oil shock transmission modelling to carbon constrained portfolios. Available for an internship in Geneva starting January 2027.
+Welcome. I'm an MSc Finance student at HEC Lausanne, focused on Asset & Risk Management. This page offers a preview of my work, which explores how macroeconomic forces drive financial markets. Feel free to explore.
 
 ---
 

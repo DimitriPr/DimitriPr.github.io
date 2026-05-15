@@ -38,8 +38,8 @@ h1 {
 
 h2 {
   font-size: 1.4rem;
-  margin-top: 2.5rem;
-  margin-bottom: 0.8rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
   padding-bottom: 0.4rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
@@ -74,15 +74,23 @@ h3 {
 .navbar {
   font-family: 'Inter', sans-serif;
   font-weight: 500;
-  font-size: 0.92rem;
+  font-size: 1.1rem;
   letter-spacing: 0.01em;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-  padding: 0.6rem 0;
+  padding: 0.72rem 0;
 }
 
 .navbar-brand {
-  font-weight: 600;
+  font-size: 1.62rem;
   letter-spacing: -0.01em;
+}
+
+.navbar-brand .brand-last {
+  font-weight: 700;
+}
+
+.navbar-brand .brand-first {
+  font-weight: 600;
 }
 
 .navbar a:hover {
@@ -300,7 +308,7 @@ table tbody tr:hover {
 hr {
   border: none;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
-  margin: 2.5rem 0;
+  margin: 1rem 0;
 }
 
 /* --- Math equations (KaTeX/MathJax) : ensure readability --- */
@@ -338,27 +346,22 @@ iframe {
    PORTFOLIO SPECIFIC STYLES
    ============================================ */
 
-/* Hero section : nom en gros */
+/* Hero section : aligné à gauche, sort du conteneur centré pour coller au bord gauche du viewport */
 .hero {
-  text-align: center;
-  padding: 4rem 0 2rem 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: left;
+  padding: 0.25rem 1.5rem 1.25rem 1.5rem;
   margin-bottom: 2.5rem;
-}
-
-.hero h1 {
-  font-size: 3rem;
-  font-weight: 700;
-  letter-spacing: -0.03em;
-  margin-bottom: 0.8rem;
-  border-bottom: none !important;
+  margin-left: calc(50% - 50vw);
+  width: 100vw;
+  box-sizing: border-box;
 }
 
 .hero p {
   font-size: 1.05rem;
   color: #aaa;
-  margin: 0.4rem 0;
+  margin: 0.1rem 0;
   font-weight: 400;
+  line-height: 1.4;
 }
 
 .hero strong {
