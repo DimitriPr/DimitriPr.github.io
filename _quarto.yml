@@ -9,8 +9,8 @@ website:
   description: "MSc Finance · HEC Lausanne · Quantitative research portfolio"
   
   navbar:
-    background: "#0d0d0d"
-    foreground: "#e0e0e0"
+    background: "#d8d8d8"
+    foreground: "#1a237e"
     right:
       - icon: github
         href: https://github.com/DimitriPr
@@ -20,14 +20,14 @@ website:
         aria-label: Email
 
   page-footer:
-    background: "#0a0a0a"
+    background: "#d8d8d8"
     border: false
     left: "© 2026 PROUVOST Dimitri"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme: darkly
+    theme: flatly
     css: styles.css
     toc: false
     smooth-scroll: true

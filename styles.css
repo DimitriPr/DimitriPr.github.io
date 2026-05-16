@@ -8,9 +8,13 @@
 
 /* --- CSS variables --- */
 :root {
-  --accent: #2d5f3f;
-  --accent-bright: #4a8b63;
-  --accent-faded: rgba(74, 139, 99, 0.15);
+  --ink: #1a237e;             /* ultramarine — main text color */
+  --ink-soft: #3949ab;        /* lighter ultramarine for secondary text */
+  --accent: #1a237e;
+  --accent-bright: #283593;
+  --accent-faded: rgba(26, 35, 126, 0.08);
+  --bg: #ffffff;
+  --band: #d8d8d8;            /* gray banner */
 }
 
 /* --- Body typography --- */
@@ -19,6 +23,14 @@ body {
   font-size: 15px;
   line-height: 1.65;
   letter-spacing: -0.005em;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* Force ultramarine on all text elements */
+h1, h2, h3, h4, h5, h6,
+p, li, td, th, span, strong, b, em, blockquote, label, dt, dd {
+  color: var(--ink);
 }
 
 /* --- Headings --- */
@@ -41,7 +53,7 @@ h2 {
   margin-top: 1.2rem;
   margin-bottom: 0.6rem;
   padding-bottom: 0.4rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(26, 35, 126, 0.15);
 }
 
 h3 {
@@ -58,7 +70,7 @@ h3 {
   font-style: italic;
   font-weight: 400;
   font-size: 1.1rem;
-  color: #999;
+  color: var(--ink);
   margin-bottom: 1.5rem;
 }
 
@@ -67,7 +79,7 @@ h3 {
   font-size: 0.85rem;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  color: #888;
+  color: var(--ink-soft);
 }
 
 /* --- Navbar --- */
@@ -76,8 +88,14 @@ h3 {
   font-weight: 500;
   font-size: 1.1rem;
   letter-spacing: 0.01em;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: var(--band) !important;
+  border-bottom: 1px solid rgba(26, 35, 126, 0.15);
   padding: 0.72rem 0;
+}
+
+.navbar .navbar-brand,
+.navbar a {
+  color: var(--ink) !important;
 }
 
 .navbar-brand {
@@ -90,7 +108,7 @@ h3 {
 }
 
 .navbar-brand .brand-first {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .navbar a:hover {
@@ -168,7 +186,7 @@ blockquote {
   border-left: 3px solid var(--accent);
   padding-left: 1.2rem;
   font-style: italic;
-  color: #aaa;
+  color: var(--ink-soft);
 }
 
 .callout {
@@ -215,7 +233,7 @@ table thead th {
 
 table tbody td {
   padding: 0.6rem 0.8rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(26, 35, 126, 0.1);
   font-variant-numeric: tabular-nums;
 }
 
@@ -235,7 +253,7 @@ table tbody tr:hover {
 
 .figure-caption, .quarto-figure-caption, figcaption {
   font-size: 0.83rem;
-  color: #888;
+  color: var(--ink-soft);
   font-style: italic;
   margin-top: 0.5rem;
   letter-spacing: 0.005em;
@@ -247,7 +265,7 @@ table tbody tr:hover {
 }
 
 #TOC a, .sidebar-toc a {
-  color: #999;
+  color: var(--ink-soft);
   border-bottom: none;
   letter-spacing: 0.005em;
 }
@@ -267,21 +285,22 @@ table tbody tr:hover {
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.1em;
-  color: #777;
+  color: var(--ink);
 }
 
 /* --- Page footer --- */
 .page-footer, footer {
   font-size: 0.82rem;
-  color: #777;
+  color: var(--ink);
   letter-spacing: 0.01em;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: var(--band);
+  border-top: 1px solid rgba(26, 35, 126, 0.15);
   padding: 1.5rem 0;
   margin-top: 4rem;
 }
 
 .page-footer a {
-  color: #999;
+  color: var(--ink);
   border-bottom: none;
 }
 
@@ -307,7 +326,7 @@ table tbody tr:hover {
 /* --- Horizontal rules --- */
 hr {
   border: none;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-top: 1px solid rgba(26, 35, 126, 0.15);
   margin: 1rem 0;
 }
 
@@ -331,8 +350,8 @@ ul li::marker {
 
 /* --- Strong emphasis (bold) --- */
 strong, b {
-  color: #fff;
-  font-weight: 600;
+  color: var(--ink);
+  font-weight: 700;
 }
 
 /* --- iframe (for embedded notebook) : style the border --- */
@@ -358,15 +377,15 @@ iframe {
 
 .hero p {
   font-size: 1.05rem;
-  color: #aaa;
+  color: var(--ink);
   margin: 0.1rem 0;
   font-weight: 400;
   line-height: 1.4;
 }
 
 .hero strong {
-  color: #fff;
-  font-weight: 500;
+  color: var(--ink);
+  font-weight: 600;
 }
 
 /* CV download buttons */
